@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzzer-rules
+cmds:
+- cmd: /out/fuzzer-rules
